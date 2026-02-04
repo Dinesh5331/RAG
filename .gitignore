@@ -1,0 +1,5 @@
+rag-env/
+__pycache__/
+docs/vector_store/**
+docs/vector_store/chroma.sqlite3
+notebook/self.persist_directory/**
